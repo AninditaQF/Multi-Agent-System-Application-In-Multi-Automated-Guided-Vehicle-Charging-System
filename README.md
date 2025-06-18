@@ -12,11 +12,11 @@ Simulasi Automated Guided Vehicle (AGV) dalam gudang menggunakan Python dan Pyga
 1. Pastikan Python dan Pygame sudah terinstall.
 2. Jalankan perintah berikut di terminal:
 
-## Screenshot
-![Screenshot 2025-06-17 234647](https://github.com/user-attachments/assets/376e486a-6626-4011-8ca8-206c50142aae)
-
 ```bash
 pip install pygame
 python main.py
+```
 
+## Screenshot
+![Screenshot 2025-06-17 234647](https://github.com/user-attachments/assets/376e486a-6626-4011-8ca8-206c50142aae)
 
