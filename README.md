@@ -14,7 +14,7 @@ Simulasi Automated Guided Vehicle (AGV) dalam gudang menggunakan Python dan Pyga
 
 ```bash
 pip install pygame
-python main.py
+pygame_simul copy 3.py
 ```
 
 ## Screenshot
